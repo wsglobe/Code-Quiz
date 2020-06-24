@@ -1,5 +1,3 @@
-### HW4-Code-Quiz
-### A timed code quiz with multiple-choice questions.
-### Link to deployed website - 
-### see screenshot below
+A simple JavaScript game that quizzes the user on JavaScript fundamentals. Consisit of 5 questions.
+Check out the Website: 
 
